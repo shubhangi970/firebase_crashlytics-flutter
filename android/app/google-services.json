@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35924330569",
+    "project_id": "practise-project-52286",
+    "storage_bucket": "practise-project-52286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35924330569:android:ac0de1910b00cf31771798",
+        "android_client_info": {
+          "package_name": "com.example.fb_crashlytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCPBtVfcrSB69s4kgvGH1eLT_QdYWyM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35924330569:android:45d3dc14c2cf6112771798",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crashlytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCPBtVfcrSB69s4kgvGH1eLT_QdYWyM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
