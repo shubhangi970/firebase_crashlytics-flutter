@@ -1,7 +1,7 @@
 # fb_crashlytics
 
 A new Flutter project.
-
+firebase account : shubhangi.rpit and project "practise project"
 ## Getting Started
 
 This project is a starting point for a Flutter application.
